@@ -69,3 +69,7 @@
 <img src="https://raw.githubusercontent.com/melizeche/melizeche/output/snake.svg" alt="Snake animation" />
 
 ###
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=melizeche&theme=onedark)]
+
+###
