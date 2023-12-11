@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋I'm Marcelo Elizeche Landó<br>Software developer and Infosec Consultant</h2>
+<h2 align="left">
+  Hi 👋 I'm Marcelo Elizeche Landó 
+  <br><br> I'm a Software Developer from Paraguay and the creator of AyudaPy.org
+  <br><br> Also, I'm an active member of the Python community, a Python Software Foundation Fellow and a DjangoCon US and Pycon US Speaker
+</h2>
 
 ###
 
