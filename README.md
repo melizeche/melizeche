@@ -70,6 +70,6 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=melizeche&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=melizeche&theme=onedark)
 
 ###
