@@ -1,6 +1,6 @@
 <h2 align="left">
   Hi 👋 I'm Marcelo Elizeche Landó 
-  <br><br> I'm a Software Developer from Paraguay and the creator of AyudaPy.org
+  <br><br> I'm a Software Developer from Paraguay, creator of AyudaPy.org, and I work at <a href="https://goauthentik.io">Authentik Security</a> </a> co-maintaining <a href="https://github.com/goauthentik/authentik">authentik</a>, the open-source IdP. 
   <br><br> Also, I'm an active member of the Python community, a Python Software Foundation Fellow and a DjangoCon US and Pycon US Speaker
 </h2>
 
